@@ -1,5 +1,5 @@
-# California_Climate_Capstone
-Repository for MSDS Residential 2023-2024 Capstone Project
+# Predicting Winter California Precipitation with Convolutional Neural Networks
+Repository for MSDS Residential 2023-2024 Capstone Project.
 
 # Abstract
 Predicting winter precipitation in California is crucial for policy decisions, ecosystem health, and inhabitants’ well-being. However, high variability and difficulty in prediction pose significant challenges. This study explores the potential of using a Convolutional Neural Network (CNN) trained on global summer sea surface temperatures (July-October) to forecast winter precipitation (November-March) across northern, central, and southern California. We leverage data from the Community Earth System Model 2 (CESM2) climate simulations for pre-training the CNNs and observational records to fine-tune the CNNs for real-world predictions. Testing on historical data from 1990-2021, the CNNs achieved R2 values of 0.089, 0.311, and 0.336 for the northern, central, and southern regions, respectively. The CNNs outperformed a baseline linear regression model,  which had R2 values of 0.005, 0.029, and 0.108. We also generated saliency maps to identify important sources of predictability around the globe. Our study provides evidence that predictions of California’s hydroclimate can be enhanced through the combination of deep learning and data from large-ensemble climate simulations.  
