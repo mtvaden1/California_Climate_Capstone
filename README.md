@@ -26,7 +26,7 @@ Predicting winter precipitation in California is crucial for policy decisions, e
 All data is available via Google Drive. The data is initally from the CESM2 Climate Simulator.
 
 ### Model Training
-The three CNN models (North, Central, and South) are trained via code found in respective notebooks can be found [here]([/path/to/directory/](https://github.com/mtvaden1/California_Climate_Capstone/tree/d72769e79d1b6ab9038f99cb99afeb4b39f714da/modeling/Train_CNNs_Simulations))
+The three CNN models (North, Central, and South) are trained via code found in respective notebooks can be found [here]([/modeling/Train_CNNs_Simulations]).
 
 ### Model Fine-Tuning
 Tuning and evaluation on Real World Data can be found here: https://github.com/mtvaden1/California_Climate_Capstone/tree/d72769e79d1b6ab9038f99cb99afeb4b39f714da/modeling/Real_World_Tuning
