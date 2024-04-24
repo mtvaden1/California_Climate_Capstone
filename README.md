@@ -23,7 +23,7 @@ Predicting winter precipitation in California is crucial for policy decisions, e
 
 
 ## Data Availability
-All data is available via Google Drive. The data is initally from the CESM2 Climate Simulator.
+All data is available via Google Drive. The data is initally from the CESM2 Climate Simulator. The raw and detrended simulation data can be found [here](https://drive.google.com/drive/folders/1N9ctc8qTU2z-aD4pObUWHd_EArKWREIh?usp=sharing). The real world data can be found [here](https://drive.google.com/drive/folders/11N1DsmOKCPKc5Q29UYzqX3ztsyfDVr3a?usp=sharing).
 
 ## Model Training
 The three CNN models (North, Central, and South) are trained via code found in respective notebooks can be found [here](/modeling/Train_CNNs_Simulations).
